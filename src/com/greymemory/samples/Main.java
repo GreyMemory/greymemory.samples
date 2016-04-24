@@ -19,7 +19,7 @@ public class Main {
      */
     public static void main(String[] args) { 
         Scanner in = new Scanner(System.in);
-        System.out.println("GreyMem (c) 2015 Mindmick");
+        System.out.println("GreyMem (c) 2015 Anton Mazhurin");
         
         while(true){
             try{
@@ -103,5 +103,5 @@ public class Main {
 }
 
 /*
-java -cp ./GreyMemory.samples.jar com.mindmick.greymemory.samples.Main
+java -cp ./GreyMemory.samples.jar com.greymemory.samples.Main
 */
